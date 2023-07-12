@@ -11,3 +11,4 @@ The project's main objective was to learn to build a simple operating system ker
 
 ****
 
+PS: Some of the notes were lost due to improper preservation in the early days, and now only the note report after experiment 6 remains, with the hope that it can be restored in the future.
